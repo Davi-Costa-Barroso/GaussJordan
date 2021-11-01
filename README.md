@@ -2,4 +2,4 @@
 Utilizado para resolver sistemas lineares. 
 O método de Gauss-Jordan ou eliminação de Gauss-Jordan é uma versão da eliminação de Gauss que zera os elementos acima e abaixo dos pivores, conforme ele percorre a matriz. 
 
-Podemos utilizar esse algoritmo para resolver equações de forma automatica. Um exemplo de problema envolvendo sistemas lineares pode ser visto no arquivo "QuestaoAlgebraLinearCotidiano.pdf"
+Podemos utilizar esse algoritmo para resolver equações de forma automatica.
